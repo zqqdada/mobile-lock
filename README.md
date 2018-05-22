@@ -3,11 +3,10 @@
 
 ## 手势密码组件
 
-[![License](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
  
 使用原生JS和Canvas，编写移动端手势密码解锁组件。
 
-演示地址：http://tangzhirong.github.io/lock/example/demo.html
 
 ### 使用说明
 1. 加入meta标签
